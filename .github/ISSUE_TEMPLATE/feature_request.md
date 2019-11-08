@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: "[FEAT]: Not good, add following stuff"
 labels: enhancement
-assignees: M-TGH
+assignees: nbennink
 
 ---
 
